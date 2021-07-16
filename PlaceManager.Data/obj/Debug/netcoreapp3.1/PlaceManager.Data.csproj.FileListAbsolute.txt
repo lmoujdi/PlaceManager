@@ -1,0 +1,12 @@
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\bin\Debug\netcoreapp3.1\PlaceManager.Data.deps.json
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\bin\Debug\netcoreapp3.1\PlaceManager.Data.dll
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\bin\Debug\netcoreapp3.1\PlaceManager.Data.pdb
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.csprojAssemblyReference.cache
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.AssemblyInfoInputs.cache
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.AssemblyInfo.cs
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.dll
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.pdb
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\bin\Debug\netcoreapp3.1\PlaceManager.Data.runtimeconfig.json
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\bin\Debug\netcoreapp3.1\PlaceManager.Data.runtimeconfig.dev.json
+C:\Users\Yasmine_Account\Desktop\Caisse des medecins\PlaceManager.Data\obj\Debug\netcoreapp3.1\PlaceManager.Data.genruntimeconfig.cache
